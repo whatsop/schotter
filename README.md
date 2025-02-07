@@ -2,7 +2,7 @@
 
 Implemention done using Rust and Nannou crate.
 
-Followed this fantastic tutorial made by [sidwellr](https://github.com/sidwellr/schotter)
+Followed this fantastic tutorial made by [sidwellr](https://github.com/sidwellr/schotter).
 It explains how to recreate Schotter, a famous artwork by computer art pioneer Georg Nees.
 
 A few additional features have been added that are not in the tutorial.
