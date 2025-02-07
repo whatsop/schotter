@@ -1,7 +1,16 @@
 # Schotter 
 
-Since I enjoy creating art with code and am currently learning Rust, I came across this fantastic tutorial: https://github.com/sidwellr/schotter. It explains how to recreate Schotter, a famous artwork by computer art pioneer Georg Nees.
+Implemention done using Rust and Nannou crate.
 
-I have added some other features compare to what it is done in the tutorial.
+Followed this fantastic tutorial made by [sidwellr](https://github.com/sidwellr/schotter)
+It explains how to recreate Schotter, a famous artwork by computer art pioneer Georg Nees.
 
-![Alt text](schotter2.png)
+A few additional features have been added that are not in the tutorial.
+
+If you would like to try playing with this, you will need to:
+* [Install Rust](https://www.rust-lang.org/learn/get-started)
+* Pull the repository
+* In the terminal `cargo run`
+
+
+![Alt text](schotter2.png "schotter")
